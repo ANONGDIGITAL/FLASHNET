@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nettoyage-hotte-de-cuisine.fr/sitemap.xml
