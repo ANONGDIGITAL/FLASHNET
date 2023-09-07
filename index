@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Entreprise de nettoyage des<link rel="icon" type="image/png" href="images/logo.png"/> hottes de cuisine: FLASHNET75</title>
+	<meta name="description" content="A la recherche d'un Professionnel pour le Nettoyage de votre cuisine? Contactez FLASHNET75, votre Entreprise de nettoyage des hottes de cuisine à Paris"/>
+    <link rel="canonical" href="https://nettoyage-hotte-de-cuisine.fr/"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="icon" type="image/png" href="images/logo.png"/>
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/style.css">
+
+	<script type="application/ld+json">
+		{
+		"@context": "https://schema.org",
+		"@type": "DryCleaningOrLaundry",
+		"image": [
+		"https://nettoyage-hotte-de-cuisine.fr/entreprise-de-nettoyage-et-degraissage-de-hotte-de-cuisine.webp",
+		"https://nettoyage-hotte-de-cuisine.fr/aspiration-hotte-de-cuisine.webp",
+		"https://nettoyage-hotte-de-cuisine.fr/degraissage-aprofondi-de-hotte-de-cuisine.webp"
+		],
+		"name": "ANONG CLEAN",
+		"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "	21 rue de Fécamp",
+		"addressLocality": "Paris",
+		"addressRegion": "FR-IDF",
+		"postalCode": "75012",
+		"addressCountry": "FR"
+		},
+		"review": {
+		"@type": "Review",
+		"reviewRating": {
+		"@type": "Rating",
+		"ratingValue": "4",
+		"bestRating": "5"
+		},
+		"author": {
+		"@type": "Person",
+		"name": "Trésor KAYENGA"
+		}
+		},
+		"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": 48.8353562,
+		"longitude": 2.3988739
+		},
+		"url": "https://nettoyage-hotte-de-cuisine.fr/",
+		"telephone": "+33623452926",
+		"priceRange": "€€€",
+		"openingHoursSpecification": [
+		{
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": [
+		"Monday",
+		"Tuesday"
+		],
+		"opens": "8:30",
+		"closes": "20:00"
+		},
+		{
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": [
+		"Wednesday",
+		"Thursday",
+		"Friday"
+		],
+		"opens": "9:00",
+		"closes": "20:00"
+		},
+		{
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": "Saturday",
+		"opens": "9:00",
+		"closes": "18:00"
+		},
+		{
+		"@type": "OpeningHoursSpecification",
+		"dayOfWeek": "Sunday",
+		"opens": "9:00",
+		"closes": "17:00"
+		}
+		]
+		}
+		</script>
+
+  </head>
+  <body>
+  	<div class="wrap">
+			<div class="container">
+				<div class="row justify-content-between">
+						<div class="col-12 col-md d-flex align-items-center">
+							<p class="mb-0 phone"><span class="mailus">Email :</span> <a href="#">contact@nettoyage-hotte-de-cuisine.fr</a></p>
+						</div>
+						<div class="col-12 col-md d-flex justify-content-md-end">
+							<div class="social-media">
+				    		<p class="mb-0 d-flex">
+				    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+				    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+				    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+				    		</p>
+			        </div>
+						</div>
+				</div>
+			</div>
+		</div>
+		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="myNavbar" id="ftco-navbar">
+	    <div class="container">
+	    	<a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="img" height="35"></a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="fa fa-bars"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	        	<li class="nav-item active"><a href="index.html" class="nav-link">Accueil</a></li>
+	        	<li class="nav-item"><a href="hottes-de-cuisine.html" class="nav-link">Hottes de cuisine</a></li>
+	        	<li class="nav-item"><a href="degats-des-eaux.html" class="nav-link">Dégats des eaux</a></li>
+	        	<li class="nav-item"><a href="aspiration-evacuation.html" class="nav-link">Aspiration & évacuation</a></li>
+				<li class="nav-item"><a href="devis.php" class="nav-link">Devis</a></li>
+				<li class="nav-item"><a href="page-contact.php" class="nav-link">Contact</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+    <div class="hero-wrap js-fullheight" style="background-image: url('images/group-chefs-working-kitchen.jpg');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate">
+			<h1 class="mb-4">Entreprise de nettoyage des hottes de cuisine</h1>
+          	<h2 class="subheading">Confiez-nous le nettoyage de votre cuisine</h2>
+            <p><a href="tel:0623452926" class="btn btn-primary mr-md-4 py-2 px-4">06 23 45 29 26<span class="ion-ios-arrow-forward"></span></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="ftco-section ftco-no-pt ftco-no-pb">
+    	<div class="container">
+    		<div class="row d-flex no-gutters">
+    			<div class="col-md-6 d-flex">
+    				<div class="img d-flex align-items-center justify-content-center py-5 py-md-0" style="background-image:url(images/degraissage-hotte.jpg);">
+    					
+    				</div>
+    			</div>
+    			<div class="col-md-6 pl-md-5 pt-md-5">
+    				<div class="row justify-content-start py-5">
+		          <div class="col-md-12 heading-section ftco-animate">
+		          	<span class="subheading">Bienvenue chez Flashnet75</span>
+		            <h2 class="mb-4">Un Engagement envers l'Environnement et la Durabilité</h2>
+		            <p>Nous sommes conscients de notre responsabilité envers l'environnement. 
+						C'est pourquoi nous privilégions des produits de nettoyage écologiques et respectueux de 
+						l'écosystème, tout en maintenant un niveau d'efficacité optimal. Notre démarche durable s'étend 
+						à tous les aspects de notre activité, pour préserver la planète tout en préservant votre santé.</p>
+		          </div>
+		        </div>
+						<div class="row ftco-counter py-5" id="section-counter">
+		          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		              <div class="text">
+		                <strong class="number" data-number="5">0</strong>
+		              </div>
+		              <div class="text">
+		              	<span>années <br> d'expérience</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		              <div class="text">
+		                <strong class="number" data-number="42">0</strong>
+		              </div>
+		              <div class="text">
+		              	<span>Clients<br>satisfaits</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		              <div class="text">
+		                <strong class="number" data-number="30">0</strong>
+		              </div>
+		              <div class="text">
+		              	<span>Bâtiments <br>nettoyés</span>
+		              </div>
+		            </div>
+		          </div>
+		        </div>
+	        </div>
+        </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading">Services</span>
+            <h2>Prestations pour le maintien de la propreté</h2>
+          </div>
+        </div>
+    		<div class="row">
+          <div class="col-md-6 col-lg-4 services ftco-animate">
+            <div class="d-block d-flex">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-cleaning"></span>
+              </div>
+              <div class="media-body pl-3">
+                <h3 class="heading">Nettoyage & Décontamination</h3>
+                <p>La proposition vise à mener une élimination substantielle voire une réduction 
+					conséquente des agents polluants de taille infinitésimale tels que les bactéries, 
+					les virus ainsi que les spores, et également des polluants de plus grande dimension comme les poussières et les graisses.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 services ftco-animate">
+          	<div class="d-block d-flex">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-kitchen"></span>
+              </div>
+              <div class="media-body pl-3">
+                <h3 class="heading">Conformité aux Normes et Réglementations</h3>
+                <p>Vous pouvez compter sur notre professionnalisme pour vous assurer que votre cuisine respecte les exigences 
+					sanitaires les plus rigoureuses. Notre approche méticuleuse garantit également une prolongation de la durée de vie de vos 
+					équipements, vous faisant ainsi économiser à long terme.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 services ftco-animate">
+            <div class="d-block d-flex">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-vacuum-cleaner"></span>
+              </div>
+              <div class="media-body pl-3">
+                <h3 class="heading">Des Techniciens Qualifiés</h3>
+                <p>Nos équipes de techniciens qualifiés possèdent une vaste expérience dans le nettoyage des hottes de cuisine. 
+					Nous utilisons les dernières technologies et techniques pour éliminer efficacement les polluants microscopiques tels que les bactéries, 
+					les virus et les spores, ainsi que les contaminants macroscopiques tels que les poussières et les graisses.</p>
+              </div>
+            </div> 
+          </div>
+
+          
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-no-pt">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-lg-3 pr-md-4 pb-lg-0 pb-4">
+						<div class="heading-section ftco-animate text-center text-lg-left">
+	          	<span class="subheading">services</span>
+	            <h2>Entreprise de nettoyage des hottes de cuisine: Hygiène Légale</h2>
+	            <p>Le nettoyage professionnel des hottes est impératif, en vertu de dispositions légales rigoureuses 
+					instaurées pour des motifs de sécurité et de salubrité publique. Cette procédure joue également un rôle 
+					substantiel dans le maintien d'une hygiène optimale au sein de votre établissement culinaire.</p>
+	          </div>
+					</div>
+					<div class="col-md-4 col-lg-3 ftco-animate d-flex">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/hotte.jpeg);"></div>
+							</div>
+							<div class="text pt-3 px-3 pb-4 text-center">
+								<h3>Conduits de buées</h3>
+								<span class="position mb-2">service de nettoyage</span>
+								<div class="faded">
+		
+	              			</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-3 ftco-animate d-flex">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/moteur.jpeg);"></div>
+							</div>
+							<div class="text pt-3 px-3 pb-4 text-center">
+								<h3>Tourelle d'extraction</h3>
+								<span class="position mb-2">service de nettoyage</span>
+								<div class="faded">
+						
+	              			</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-3 ftco-animate d-flex">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/WhatsApp\ Image\ 2023-07-26\ at\ 20.51.59.jpeg);"></div>
+							</div>
+							<div class="text pt-3 px-3 pb-4 text-center">
+								<h3>Hottes de cuisine</h3>
+								<span class="position mb-2">service de nettoyage</span>
+								<div class="faded">
+						
+	             			 </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+    <section class="ftco-section testimony-section ftco-bg-dark">
+      <div class="container">
+        <div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
+          	<span class="subheading">Services</span>
+            <h2>Un dégraissage et nettoyage complet du système d’extraction</h2>
+          </div>
+        </div>
+        <div class="row ftco-animate">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel ftco-owl">
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                	<div class="icon d-flex align-items-center justify-content-center"></div>
+                  <div class="text">
+                  	<div class="d-flex align-items-center mb-4">
+                    	<div class="pl-3">
+		                    <p class="name">Nettoyage de moteurs Dégraissage des filtres</p>
+		                  </div>
+	                  </div>
+                    <p class="mb-1">Le nettoyage régulier du moteur et le dégraissage du filtre des hottes de cuisine sont 
+						des étapes essentielles pour maintenir un environnement de cuisson sain et sécuritaire. Les hottes de cuisine 
+						jouent un rôle crucial en éliminant les graisses, les odeurs et les particules de cuisson de l'air, contribuant ainsi 
+						à préserver la qualité de l'air intérieur.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                	<div class="icon d-flex align-items-center justify-content-center"></div>
+                  <div class="text">
+                  	<div class="d-flex align-items-center mb-4">
+                    	<div class="pl-3">
+		                    <p class="name">Nettoyage et dégraissage des caissons</p>
+		                  </div>
+	                  </div>
+                    <p class="mb-1">Le nettoyage et le dégraissage des caissons de hottes de cuisine sont des tâches importantes pour assurer 
+						le bon fonctionnement de votre système d'extraction d'air et maintenir un environnement de cuisson propre et sécuritaire. 
+						Les caissons sont les parties internes de la hotte qui abritent les filtres et les composants électriques, et ils peuvent 
+						accumuler de la graisse, de la poussière et d'autres débris au fil du temps.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<div class="d-flex align-items-center mb-4">
+                    	<div class="pl-3">
+		                    <p class="name">Dégraissage de hottes aspirantes</p>
+		                  </div>
+	                  </div>
+                    <p class="mb-1">En entretenant régulièrement les hottes aspirantes, vous préserverez leur efficacité 
+						et prolongerez leur durée de vie. De surcroît, un système immaculé minimisera les risques d'incendie et 
+						maintiendra une qualité de l'air optimale au sein de votre espace culinaire. Il est primordial de suivre à 
+						la lettre les directives spécifiques émises par le fabricant pour l'entretien de votre hotte aspirante. </p>
+                  </div>
+                </div>
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+		
+		
+		
+		<section class="ftco-section">
+      <div class="container">
+        <div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading">Services</span>
+            <h2>Le résultat en images</h2>
+          </div>
+        </div>
+        <div class="row d-flex">
+          <div class="col-md-6 col-lg-4 d-flex ftco-animate">
+            <div class="blog-entry align-self-stretch">
+              <a  class="block-20 rounded" style="background-image: url('images/filter.jpg');">
+              </a>
+              <div class="text mt-3 px-4">
+                <h3 class="heading"><a href="#">Nettoyage de filtres</a></h3>
+                <p>Restaurez l'efficacité et l'hygiène de votre cuisine avec notre service de nettoyage de filtres de hottes professionnel.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-flex ftco-animate">
+            <div class="blog-entry align-self-stretch">
+              <a class="block-20 rounded" style="background-image: url('images/photo.jpeg');">
+              </a>
+              <div class="text mt-3 px-4">
+                <h3 class="heading"><a href="#">Professionnels dévoués</a></h3>
+                <p>Professionnels de nettoyage expérimentés, garantissant un environnement impeccable.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-flex ftco-animate">
+            <div class="blog-entry align-self-stretch">
+              <a class="block-20 rounded" style="background-image: url('images/aspiration1.jpeg');">
+              </a>
+              <div class="text mt-3 px-4">
+                <h3 class="heading"><a href="#">Équipements adaptés</a></h3>
+                <p>Une entreprise de nettoyage équipée des dernières technologies pour une efficacité remarquable.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section ftco-intro" style="background-image: url('images/Capture\ d’écran\ 2023-07-25\ à\ 11.59.40.png');" data-stellar-background-ratio="0.5">
+    	<div class="overlay"></div>
+    	<div class="container">
+    		<div class="row justify-content-center">
+    			<div class="col-md-8 text-center">
+    				<h2>" Nous assurons la propreté de votre cuisine "</h2>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+	<!--
+
+    <section class="ftco-section bg-light">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading mb-3">Price &amp; Plans</span>
+            <h2>Choose Your Perfect Plans</h2>
+          </div>
+        </div>
+    		<div class="row">
+    			<div class="col-md-6 col-lg-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            	<div class="icon d-flex align-items-center justify-content-center"><span class="fa flaticon-sprayer"></span></div>
+	            	<h4 class="heading-2">Starter</h4>
+		            <span class="price"><sup>$</sup> <span class="number">49</span></span>
+		            
+		            <ul class="pricing-text mb-5">
+		              <li><span class="fa fa-check mr-2"></span>Bedrooms cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Vacuuming</li>
+		              <li><span class="fa fa-check mr-2"></span>Bathroom cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Mirrow cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Livingroom cleaning</li>
+		            </ul>
+
+		            <a href="#" class="btn btn-primary px-4 py-3">Get Started</a>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-6 col-lg-3 ftco-animate">
+	          <div class="block-7 active">
+	            <div class="text-center">
+	            <div class="icon d-flex align-items-center justify-content-center"><span class="fa flaticon-vacuum-cleaner"></span></div>
+            	<h4 class="heading-2">Standard</h4>
+	            <span class="price"><sup>$</sup> <span class="number">79</span></span>
+	            
+	            <ul class="pricing-text mb-5">
+		              <li><span class="fa fa-check mr-2"></span>Bedrooms cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Vacuuming</li>
+		              <li><span class="fa fa-check mr-2"></span>Bathroom cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Mirrow cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Livingroom cleaning</li>
+		            </ul>
+
+	            <a href="#" class="btn btn-primary px-4 py-3">Get Started</a>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-6 col-lg-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            	<div class="icon d-flex align-items-center justify-content-center"><span class="fa flaticon-tap"></span></div>
+            	<h4 class="heading-2">Premium</h4>
+	            <span class="price"><sup>$</sup> <span class="number">109</span></span>
+	            
+	            <ul class="pricing-text mb-5">
+		              <li><span class="fa fa-check mr-2"></span>Bedrooms cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Vacuuming</li>
+		              <li><span class="fa fa-check mr-2"></span>Bathroom cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Mirrow cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Livingroom cleaning</li>
+		            </ul>
+
+	            <a href="#" class="btn btn-primary px-4 py-3">Get Started</a>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-6 col-lg-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            	<div class="icon d-flex align-items-center justify-content-center"><span class="fa flaticon-cleaning"></span></div>
+            	<h4 class="heading-2">Platinum</h4>
+	            <span class="price"><sup>$</sup> <span class="number">159</span></span>
+	            
+	            <ul class="pricing-text mb-5">
+		              <li><span class="fa fa-check mr-2"></span>Bedrooms cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Vacuuming</li>
+		              <li><span class="fa fa-check mr-2"></span>Bathroom cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Mirrow cleaning</li>
+		              <li><span class="fa fa-check mr-2"></span>Livingroom cleaning</li>
+		            </ul>
+
+	            <a href="#" class="btn btn-primary px-4 py-3">Get Started</a>
+	            </div>
+	          </div>
+	        </div>
+	      </div>
+    	</div>
+    </section>
+
+	-->
+
+
+    <footer class="footer ftco-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+					<h2 class="footer-heading">Notre entreprise</h2>
+					<p>Flashnet 75 est une entreprise de nettoyage de hottes de cuisine basée à Paris. Nous intervenons principalement pour les professionnels de la restauration mais également chez des partculiers.</p>
+					<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-4">
+						<li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
+						<li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
+						<li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>
+					</ul>
+				</div>
+			
+				<div class="col-md-6 col-lg-3 pl-lg-5 mb-4 mb-md-0">
+					<h2 class="footer-heading">Liens utiles</h2>
+					<ul class="list-unstyled">
+						<li><a href="#" class="py-1 d-block">Accueil</a></li>
+						<li><a href="hottes-de-cuisine.html" class="py-1 d-block">Hottes de cuisine</a></li>
+						<li><a href="devis.html" class="py-1 d-block">Devis</a></li>
+						<li><a href="contact.html" class="py-1 d-block">Contact</a></li>
+					</ul>
+				</div>
+				<div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+					<h2 class="footer-heading">Contact</h2>
+					<div class="block-23 mb-3">
+		  <ul>
+			<li><span class="icon fa fa-map-marker"></span><span class="text">21 rue de Fécamp, 75012 Paris</span></li>
+			<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">06 23 45 29 26</span></a></li>
+			<li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text">contact@nettoyage-hotte-de-cuisine.fr</span></a></li>
+		  </ul>
+		</div>
+				</div>
+			</div>
+			<div class="row mt-5">
+	  <div class="col-md-12 text-center">
+
+		<p class="copyright">
+			Copyright &copy; Tous droits réservés. site web créé par <a href="https://anong-digital.fr" target="_blank">Anong Digital</a>
+		</p>
+	  </div>
+	</div>
+		</div>
+	</footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+  <script src="script.js"></script>
+    
+  </body>
+</html>
